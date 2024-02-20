@@ -1,0 +1,3 @@
+Krzysztof Czarnowus, styczeń 2024 r.
+
+Katalog zawiera projekt zaliczeniowy na ćwiczenia z Algorytmów i Struktur Danych I, realizujący proste szyfrowanie dokumentów tekstowych za pomocą metody RSA; komunikacja z użytkownikiem odbywa się za pośrednictwem wiersza poleceń. Plik make umożliwia automatyczną kompilację programu za pomocą komendy "make all" oraz uruchomienie go poprzez "make run".
