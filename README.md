@@ -10,3 +10,4 @@ Programy napisane w ramach przedmiotu **Algorytmy i Struktury Danych I** podczas
 - Zestaw05 - **Sorting algorithms** - sortowanie bąbelkowe, sortowanie przez selekcję oraz sortowanie przez wstawianie
 - Zestaw06 - **Binary Tree** - implementacja wskaźnikowa
 - Zestaw07 - **Dictionary** - implementacja za pomocą haszowanej listy wskaźnikowej
+- **Projekt zaliczeniowy** - zawiera prosty program służący do szyfrowania dokumentów tekstowych metodą **RSA**
